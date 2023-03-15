@@ -1,3 +1,3 @@
 from DB import DB
-db=DB("Quim","kimus7@gmail.com")
+db=DB("name","address")
 print(db)
